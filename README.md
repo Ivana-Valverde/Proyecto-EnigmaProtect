@@ -14,4 +14,5 @@ Se inserta el texto escrito tal cual en la barra que dice "Ingrese aquí su text
 - HTML 
 - Java Script
 - CSS
-## [Enlace a nuestro Replit](https://replit.com/@IvanaValverde/EnigmaProtect-AdaLovelace#index.html)
+## [Link-Replit](https://replit.com/@IvanaValverde/EnigmaProtect-AdaLovelace#index.html)
+## [Link-GitHub](https://ivana-valverde.github.io/Proyecto-EnigmaProtect/)
