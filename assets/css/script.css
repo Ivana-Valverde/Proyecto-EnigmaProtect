@@ -1,0 +1,35 @@
+body{
+background-image: url(https://2.bp.blogspot.com/-ZygVKlQwvoE/Ufh-6ZfnvwI/AAAAAAAA_yc/OfK_AVeDbhM/s1600/1304496321_38.jpgg);
+font-family: "Alumni Sans";
+font-size: 1.6rem;    
+
+  border-radius: 15px;
+background-size: contain;
+text-align: center;
+width: 600px;
+height: 800px;
+margin: auto;
+display: block;
+}
+.title2{
+font-size: 2.0rem;
+font-family: "Andika";
+color: white;
+
+}
+
+.type{
+color: white;
+font-size:1rem;
+margin-right:100px ;
+margin-left:60px;
+background-color: rgb(130, 9, 154);
+border: 2px solid rgb(49, 201, 191);
+border-radius: 10px;
+text-decoration:none;
+  
+}
+
+.type:hover{
+  background-color:rgb(129, 120, 18);
+}
